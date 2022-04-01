@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matias B Player</string>
+    <string name="use_button_to_begin_and_pause_sound">use button to begin and pause sound</string>
+    <string name="use_button_to_stop_sound">use button to stop sound</string>
+</resources>
